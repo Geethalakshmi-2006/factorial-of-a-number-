@@ -1,6 +1,7 @@
 # FACTORIAL-OF-A-NUMBER
 # FACTORIAL OF A NUMBER USING 8051 (Keil)
-
+# NAME: GEETHALAKSHMI D
+# REG NO: 212224060079
 ## AIM
 To write and execute an Assembly language program to perform the factorial of a number using 8051 Keil.
 
@@ -32,7 +33,7 @@ To write and execute an Assembly language program to perform the factorial of a 
 ---
 
 ## PROGRAM
-```asm
+```
 ORG 0000H
 MOV DPTR,#4500H
 MOVX A,@DPTR
@@ -54,10 +55,13 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="1042" height="222" alt="image" src="https://github.com/user-attachments/assets/1dad33c8-21b9-4279-a0a5-901e794e2b55" />
+
 
 ---
 MANUAL CALCULATIONS
+
+<img width="792" height="401" alt="image" src="https://github.com/user-attachments/assets/91d09826-6f57-4591-8516-be559b925cca" />
 
 ---
 
